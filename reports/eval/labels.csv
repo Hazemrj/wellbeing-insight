@@ -1,0 +1,31 @@
+member_code,all_claims_true,note
+M0407,yes,3 of last 5 check-ins are 2 or lower; escalation template is correct
+M0317,yes,active minutes -14.2% is true
+M0268,yes,3 of last 5 check-ins <=2; correct escalation
+M0383,yes,sleep -31% and steps -8.2% are true; the mood/energy link is a hedged guess (no mood data)
+M0369,yes,steps -6.5% and active minutes -11.0% are true; evidence field name has a space
+M0399,yes,steps +10.5% and active minutes -13.8% are true
+M0218,yes,active minutes -6.2% is true
+M0258,yes,active minutes +10.8% and steps +5.8% are true; word 'consistently' is a bit strong
+M0120,yes,12-day app streak is true
+M0116,yes,3-day streak and sync 1.0 are true; 'consistent' is weak for 3 days
+M0113,yes,8-day streak and steps_30d 9022.8 are true
+M0488,yes,active minutes -7.8% and steps +5.5% are true
+M0338,yes,active minutes -2.3% and steps +9.7% are true
+M0015,yes,steps +6.1% is true; 'continued' is not provable from the data; action wording is awkward
+M0076,yes,active minutes -22.8% and steps -7.9% are true
+M0356,yes,active minutes -8.2% and steps +7.3% are true
+M0110,yes,3 of last 5 check-ins <=2; correct escalation
+M0453,yes,sleep +5.5% is true; 'continued' is not provable
+M0439,yes,4 of last 5 check-ins <=2; correct escalation
+M0459,no,"calls the week a positive change overall, but steps fell 14.3% and sleep fell 11.8%; the verdict is not supported"
+M0107,yes,active minutes +12.7% is true; 'continued' not provable; ignores 44 days without opening the app
+M0418,yes,active minutes +12.0% is true; 'steadily' is not provable
+M0458,yes,fallback text makes no false claim; evidence -9.3% is true
+M0425,yes,3 of last 5 check-ins <=2; correct escalation
+M0421,yes,steps -14.1% is true
+M0248,yes,active minutes -7.6% is true
+M0229,yes,2-day streak and sync 1.0 are true; 'consistent' is weak
+M0131,yes,active minutes +11.9% is true; 'continued' not provable
+M0119,yes,steps -14.4% is true
+M0068,yes,active minutes +12.3% is true; 'consistent' not provable
