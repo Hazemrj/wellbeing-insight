@@ -1,0 +1,10 @@
+PyMySQL
+cryptography
+pandas
+numpy
+pytest
+fastapi
+uvicorn
+requests
+httpx
+scikit-learn
